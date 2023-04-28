@@ -8,7 +8,7 @@
 ### OPENAI API KEY
 
 In order to run this example you will need an API key from OpenAI. If you don't have one, head over to 
-[OpenAI Platform](https:///platform.openai.com) and sign in (or sign up), then under your account menu,
+[OpenAI Platform](https://platform.openai.com) and sign in (or sign up), then under your account menu,
 select "View API keys" and click on "Create new secret key." Make sure to copy the key somewhere safe,
 since it won't be shown again.
 
